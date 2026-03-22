@@ -1,0 +1,186 @@
+[
+  {
+    "timestamp": "2026-03-21T17:00:03.480668+00:00",
+    "document_id": "30f86b72-44c0-4b48-b213-2032118aa048",
+    "document_title": "It Act 2000 Updated",
+    "query": "how this bill affects me",
+    "confidence": 0.0,
+    "cached": false,
+    "token_metrics": {
+      "query_tokens_estimate": 53,
+      "context_tokens_estimate": 21,
+      "system_prompt_tokens_estimate": 222,
+      "user_prompt_tokens_estimate": 271,
+      "total_prompt_tokens_estimate": 493,
+      "provider_prompt_tokens": 609,
+      "provider_completion_tokens": 313,
+      "response_tokens_estimate": 318
+    },
+    "information_density": {
+      "value_units": 0.55,
+      "prompt_plus_response_tokens": 811,
+      "value_per_token": 0.000678,
+      "density_per_1k_tokens": 0.68,
+      "signals": {
+        "summary_present": false,
+        "breakdown_bullets": 0,
+        "stakeholder_mentions": 0,
+        "legal_signal_hits": 1,
+        "reference_count": 0,
+        "citation_count": 0
+      }
+    },
+    "verification_status": "blocked_incomplete_citations",
+    "citation_coverage": 0.0,
+    "retrieved_original_tokens": 216,
+    "retrieved_compressed_tokens": 21,
+    "retrieved_compression_ratio": 10.2857
+  },
+  {
+    "timestamp": "2026-03-22T10:56:42.409497+00:00",
+    "document_id": "30f86b72-44c0-4b48-b213-2032118aa048",
+    "document_title": "It Act 2000 Updated",
+    "query": "What is the penalty for cyber terrorism under this Act?",
+    "confidence": 0.0,
+    "cached": false,
+    "token_metrics": {
+      "query_tokens_estimate": 59,
+      "context_tokens_estimate": 18,
+      "system_prompt_tokens_estimate": 222,
+      "user_prompt_tokens_estimate": 294,
+      "total_prompt_tokens_estimate": 516,
+      "provider_prompt_tokens": 649,
+      "provider_completion_tokens": 168,
+      "response_tokens_estimate": 165
+    },
+    "information_density": {
+      "value_units": 0.55,
+      "prompt_plus_response_tokens": 681,
+      "value_per_token": 0.000808,
+      "density_per_1k_tokens": 0.81,
+      "signals": {
+        "summary_present": false,
+        "breakdown_bullets": 0,
+        "stakeholder_mentions": 0,
+        "legal_signal_hits": 1,
+        "reference_count": 0,
+        "citation_count": 0
+      }
+    },
+    "verification_status": "blocked_incomplete_citations",
+    "citation_coverage": 0.0,
+    "retrieved_original_tokens": 246,
+    "retrieved_compressed_tokens": 18,
+    "retrieved_compression_ratio": 13.6667
+  },
+  {
+    "timestamp": "2026-03-22T11:03:46.319279+00:00",
+    "document_id": "30f86b72-44c0-4b48-b213-2032118aa048",
+    "document_title": "It Act 2000 Updated",
+    "query": "What does this Act say about electronic signatures?",
+    "confidence": 0.0,
+    "cached": false,
+    "token_metrics": {
+      "query_tokens_estimate": 9,
+      "context_tokens_estimate": 8,
+      "system_prompt_tokens_estimate": 292,
+      "user_prompt_tokens_estimate": 230,
+      "total_prompt_tokens_estimate": 522,
+      "provider_prompt_tokens": 624,
+      "provider_completion_tokens": 185,
+      "response_tokens_estimate": 184
+    },
+    "information_density": {
+      "value_units": 0.0,
+      "prompt_plus_response_tokens": 706,
+      "value_per_token": 0.0,
+      "density_per_1k_tokens": 0.0,
+      "signals": {
+        "summary_present": false,
+        "breakdown_bullets": 0,
+        "stakeholder_mentions": 0,
+        "legal_signal_hits": 0,
+        "reference_count": 0,
+        "citation_count": 0
+      }
+    },
+    "verification_status": "blocked_insufficient_evidence",
+    "trust_score": 0.4913,
+    "citation_coverage": 1.0,
+    "retrieved_original_tokens": 129,
+    "retrieved_compressed_tokens": 8,
+    "retrieved_compression_ratio": 16.125
+  },
+  {
+    "timestamp": "2026-03-22T11:09:03.141386+00:00",
+    "document_id": "30f86b72-44c0-4b48-b213-2032118aa048",
+    "document_title": "It Act 2000 Updated",
+    "query": "What does this Act say about electronic signatures?",
+    "confidence": 0.0,
+    "cached": false,
+    "token_metrics": {
+      "query_tokens_estimate": 57,
+      "context_tokens_estimate": 8,
+      "system_prompt_tokens_estimate": 292,
+      "user_prompt_tokens_estimate": 278,
+      "total_prompt_tokens_estimate": 570,
+      "provider_prompt_tokens": 675,
+      "provider_completion_tokens": 148,
+      "response_tokens_estimate": 153
+    },
+    "information_density": {
+      "value_units": 0.55,
+      "prompt_plus_response_tokens": 723,
+      "value_per_token": 0.000761,
+      "density_per_1k_tokens": 0.76,
+      "signals": {
+        "summary_present": false,
+        "breakdown_bullets": 0,
+        "stakeholder_mentions": 0,
+        "legal_signal_hits": 1,
+        "reference_count": 0,
+        "citation_count": 0
+      }
+    },
+    "verification_status": "blocked_incomplete_citations",
+    "citation_coverage": 0.6667,
+    "retrieved_original_tokens": 129,
+    "retrieved_compressed_tokens": 8,
+    "retrieved_compression_ratio": 16.125
+  },
+  {
+    "timestamp": "2026-03-22T11:14:26.474505+00:00",
+    "document_id": "30f86b72-44c0-4b48-b213-2032118aa048",
+    "document_title": "It Act 2000 Updated",
+    "query": "What does this Act say about electronic signatures?",
+    "confidence": 0.6524324417114258,
+    "cached": false,
+    "token_metrics": {
+      "query_tokens_estimate": 9,
+      "context_tokens_estimate": 8,
+      "system_prompt_tokens_estimate": 292,
+      "user_prompt_tokens_estimate": 230,
+      "total_prompt_tokens_estimate": 522,
+      "provider_prompt_tokens": 624,
+      "provider_completion_tokens": 167,
+      "response_tokens_estimate": 172
+    },
+    "information_density": {
+      "value_units": 7.75,
+      "prompt_plus_response_tokens": 694,
+      "value_per_token": 0.011167,
+      "density_per_1k_tokens": 11.17,
+      "signals": {
+        "summary_present": false,
+        "breakdown_bullets": 2,
+        "stakeholder_mentions": 3,
+        "legal_signal_hits": 0,
+        "reference_count": 0,
+        "citation_count": 1
+      }
+    },
+    "retrieved_original_tokens": 129,
+    "retrieved_compressed_tokens": 8,
+    "retrieved_compression_ratio": 16.125
+  }
+]
